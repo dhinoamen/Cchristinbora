@@ -1,0 +1,16 @@
+.skills-section{
+    background-color: #030304;
+    padding-bottom: 7%;
+    padding-top: 7%;
+}
+.skills-section .progress-bar{
+    width: 100%;
+    height: 10px;
+    border-radius: 10px;
+    background-color: gray;
+}
+
+.skills-section .progress-bar .progress {
+    background-color: orangered;
+
+}
